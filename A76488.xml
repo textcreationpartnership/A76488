@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God fighting for vs in Ireland, or a most true and exact relation of the accurrances [sic] done by the English this moneth last past to this present. With the manner and number of our forces which marched out upon this expedition. Also the names of the castles they tooke, the manner of besieging and of the releasing the English in their deepest destresse, and what number of the Irish was put to the sword. Wherein it apperes that God never forsakes those that puts their trust in him. Written by W.B. of Dublin, whose letters have hitherto expressed nothing but truth.</title>
+            <author>W. B., of Dublin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76488</idno>
+            <idno type="STC">Wing B212</idno>
+            <idno type="STC">Thomason E154_16</idno>
+            <idno type="STC">ESTC R18948</idno>
+            <idno type="EEBO-CITATION">99860510</idno>
+            <idno type="PROQUEST">99860510</idno>
+            <idno type="VID">156823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156823)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God fighting for vs in Ireland, or a most true and exact relation of the accurrances [sic] done by the English this moneth last past to this present. With the manner and number of our forces which marched out upon this expedition. Also the names of the castles they tooke, the manner of besieging and of the releasing the English in their deepest destresse, and what number of the Irish was put to the sword. Wherein it apperes that God never forsakes those that puts their trust in him. Written by W.B. of Dublin, whose letters have hitherto expressed nothing but truth.</title>
+                  <author>W. B., of Dublin.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B. and are to be sold by Thomas Bates in the Old-Baily,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Parts of this work are dated June 16, 17, and 18 respectively.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156823:1"/>
+            <pb facs="tcp:156823:1" rendition="simple:additions"/>
+            <p>
+               <hi>GOD</hi> FIGHTING FOR VS IN IRELAND, <hi>OR</hi> A MOST TRVE AND exact Relation of the accurrances done by the <hi>Engliſh</hi> this Moneth laſt paſt to this preſent.</p>
+            <p>With the manner and number of our Forces which marched out upon this expedition.</p>
+            <p>Alſo the names of the Caſtles they tooke, the man<g ref="char:EOLhyphen"/>ner of beſieging, and of the Releaſing the <hi>Engliſh</hi> in their deepeſt deſtreſſe, and what number of the Iriſh was put to the ſword.</p>
+            <p>Wherein it apperes that God never forſakes thoſe that puts their truſt in him.</p>
+            <p>Written by <hi>W.B.</hi> of <hi>Dublin,</hi> whoſe Letters have hitherto expreſſed nothing but truth.</p>
+            <p>Printed for <hi>W.B.</hi> and are to be ſold by <hi>Thomas B<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> in the <hi>Old-B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ily.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156823:2"/>
+            <pb facs="tcp:156823:2"/>
+            <opener>
+               <dateline>
+                  <date>DUBLIN IVNE, 16<hi rend="sup">th.</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>ON Saterday laſt, ſome of our Armie conſiſting of 15. Cullers, marched from hence towards <hi>Trym,</hi> the next munday marched after them 34. Cullivers and 5 troopes of Horſe, beſides 200. Firelocks and field peeces 8. and it is thought their meeting place is to be at <hi>Tryme:</hi> and divers others of Foote and Horſe from <hi>Droheda</hi> and other places where our Garri<g ref="char:EOLhyphen"/>ſons are to come to them, which wee hope by the bleſſing of the Lord of Hoſt will doe good ſervice before they returne; the ſummer being ſo farre ſpent, it is full time to beginne to redeeme the time which hither to have done very little to ſo great a worke, I hope the pray<g ref="char:EOLhyphen"/>ers of all Gods people will interſeede for them and the reſt of all our Armies, that God may bee honored in the good worke begun, to the increaſe of his Goſpel and the true peace and common wealth, all which are now very low brought and hardly a ſhadow of either.</p>
+            <p>This day we heare three things which hath happened from and by our Garriſon at the <hi>Navs</hi> (for where wee have forward Commanders God in his mercy hath ever beene with them) Captaine <hi>Michael Iones</hi> a very worthy Gentleman a valiant deſcreet and religious man, mar<g ref="char:EOLhyphen"/>ched
+<pb n="4" facs="tcp:156823:3"/>to a Towne of the Kight Honorable <hi>Adam</hi> Lord Viſcount of <hi>Ely</hi> called <hi>Maſter E<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> which hath beene long beſeidged by the Rebells, a ſtrong hold and well furniſhed with Aimes, but wanted powder and ſhot, yet have held out againſt thoſe Traytors great forces which were much pittied of us all, but no ſuccour was ſent to them, and the Rebell had ſo wrought their trialls, that it was almoſt paſt helpe, but this worthy Captaine with a handfull of men in compariſon of the Rebells, ſet upon them, beſeigers, beates them out of their trenches and workes which they had made to ſurprice the Caſtle, ſlew many of them, and put the reſt to flight, and burnt the Towne cloſe by the Caſtle, which harboured the Rebells furniſhed our friends with men powder and ſhort and what they wanted, with great plenty and have left them ſo ſtrong, that they are by Gods aſſiſtance able to bid de<g ref="char:EOLhyphen"/>fiance to their and our Enemies, this place was in ſuch extremity, that had our men ſtayed but two houres lon<g ref="char:EOLhyphen"/>ger before they came, the Caſtle men &amp; Armes in it had beene all loſt, and they Rebells had got ſo ſtrong a hold, that we could hardly have recovered it without the loſſe of much blood and great expences, but bleſſed bee God for his wonderfull deliverance which was done by his great power.</p>
+            <p>The ſecond is by the ſame worthy Captaine at a place about two miles from the <hi>Naas</hi> called <hi>Blacke Hall,</hi> which hath beene wonderfully offencive to us, to whom our valliant Captaine marched with a few men, ſet upon it, the Rebells ſtrongly withſtood our men, but nothing daunted by them after many aſſaults approached neare their hold which the Rebells though too ſtrong for us to gett, in which aſſaults our couragious Captaine was in great danger of his life, who eſpied one of the Rebells
+<pb n="5" facs="tcp:156823:3"/>through a ſpeech hole aiming at himſelfe, which by the good providence of the Almighty he eſpying, ranne with a brave reſolution to the hole, and with his Piſtoll ſhort the Rebell and killed him before hee could diſcharge at our Captaine, and in the the concluſion tooke the Caſtle and put them the Rebells to the ſword, by which good ſucceſſe we and all Gods good people ought with thank<g ref="char:EOLhyphen"/>full hearts bleſſe and prayſe his holy name.</p>
+            <p>The third was at <hi>Manouth</hi> the manour houſe of the Earle of <hi>Kilders,</hi> which in ſome ſort was not ſo proſpe<g ref="char:EOLhyphen"/>rous although the wonderfull providence of our good God is wonderfully manifeſted, 33. of our men were ſet to keepe that great manour houſe, the Rebells had their randevouſe within a mile of it, and yet our 33 men kept it from them till one in the houſe the earles Butler played the Trayterous Rebell and betrayed them, the houſe is great and full of windowes which were barrocadoed up with Iron Barres and ſtones, our men were diligent upon their watch where the danger was, but this traiterous villaine appointing the Rebells where to come at a win<g ref="char:EOLhyphen"/>dow leaſt ſuſpected, the Rebells on the out ſide and the villaine within opened one window, by which 60. of the Rebells entred the Houſe before our men eſpied them; but when our men found out their treachery, with un<g ref="char:EOLhyphen"/>danted ſpirits ſet upon them in that roome the Rebells were in and put them all to the ſword, but the Enemy be<g ref="char:EOLhyphen"/>ing in number ſeven hundred, and the reſt ſo neere them, were not able to hold out, for the Rebells caſt balles of wildfire into the Houſe, which burnt ſo furiouſly they were not able to quench it, ſo that our men gathered themſelves into a body, taking with them in their Pockets and ſtockings as much powed as they could well carry fired the reſt and marched through the Rebells diſchar<g ref="char:EOLhyphen"/>ging
+<pb n="6" facs="tcp:156823:4"/>at the Rebells on front and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and on both flanckes with ſo ſlow a march, as a ſicke man was able to goe with our men ſecure from their fury with the ven<g ref="char:EOLhyphen"/>ture of their owne lives; ni which great extremity wee left onely three men which were ſicke in their beds and could not ſtirre they were ſo weake: thirty came all ſafe with their Armes and as much powder as they could car<g ref="char:EOLhyphen"/>ry with them, but they left the houſe burning. This re<g ref="char:EOLhyphen"/>lation I heard from one of the thirty ſouldiers, all which thirty are ſurely come to this Towne bleſſed be God for his wonderfull goodneſſe towards us, but the faire houſe is deſtroyed with all the furniture, beſides a faire Libe<g ref="char:EOLhyphen"/>rary of good booles, which the Earle of <hi>Kildare</hi> had in it; and this is all of certaintie that we have.</p>
+            <closer>
+               <dateline>Dublin <date>this ſeventeeth of <hi>Iune,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:156823:4"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>June</hi> the Eighteenth, 1642.</date>
+               </dateline>
+            </opener>
+            <p>THis day wee heard from our A<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y, Sir <hi>Richard Greenefield</hi> who is Commander of out Garriſon at <hi>Tryme,</hi> went to a Caſtle about 2 miles from <hi>Try<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> wherein were many Rebell, men, women, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, which for Sir <hi>Richard</hi> and his <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of the Caſtle is one <hi>L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> and the Caſtle is called <hi>Lim<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </hi> of the knock, againſt which <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this beſieging that part of our Armie which wen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from hence this day <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ched neare the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and joyned with our man to take the Caſtle, which ſtood ſo long that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men, and tenne hurt, of which ten Leiftenant Colo<g ref="char:EOLhyphen"/>nell <hi>Kerke</hi> was one, which when the Rebells ſaw that our men were reſolute, and that our men would not depart till they had the Caſtle, the Rebells themſelves ſet fire on the Caſtle, but that would not prevaile for their eſcape although ſome of the Rebells were burnt in that fire they themſelves kindled, our men would not ſuffer them to eſcape ſo, but put to ſword 60. of them, tooke 4 pri<g ref="char:EOLhyphen"/>ſoners, but ſuffered the women and children to paſſe with their lives: upon this victory our men marched to a Caſtle beyond <hi>Tryme</hi> about the ſame or leſſe diſtant from <hi>Tryme</hi> of the Lord of <hi>Trymelſtone,</hi> but the Rebells in that Caſtle underſtanding that our men had given an o<g ref="char:EOLhyphen"/>verthrow to <hi>Linch</hi> is <hi>Knocke,</hi> left the Caſtle and fled but their goods with the<g ref="char:cmbAbbrStroke">̄</g>, five or ſixe cart loades, which tooke
+<pb n="8" facs="tcp:156823:5"/>when our men underſtood made after them, recovered the goods but the Rebells fled into woods and bogger and ſo eſcaped themſelves, but loſt their goods, which our men injoyed for pillage. In another Caſtle not farre from this of <hi>Tryme</hi> the Rebells hearing of the ſucceſſe our men had againſt thoſe two Caſtle, left their ſtrong holds and fled alſo before our Army came at them.</p>
+            <p>This day was two Rebells drawne hanged and quarte<g ref="char:EOLhyphen"/>red at the Gallowes greene, where many more will fol<g ref="char:EOLhyphen"/>low if they have according to their deſerts. This day Sir <hi>Andrew Elmer</hi> the Lord of <hi>Ormonds</hi> brother in law, Sir <hi>Nicholas White,</hi> Maſter <hi>Nicholas White</hi> his ſon and heire, and Maſter <hi>Elmer</hi> were indigted of high Treaſon at the Kings Bench barre, and returned priſoners to the Caſtle, and likewiſe Alderman <hi>Iones</hi> was indited of high Treaſon this weeke, and committed to the marſhyall of the foure Courts where as yet I leave them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
